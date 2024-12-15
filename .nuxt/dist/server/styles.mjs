@@ -1,0 +1,25 @@
+const interopDefault = r => r.default || r || []
+export default {
+  "node_modules/nuxt/dist/app/entry.js": () => import('./_nuxt/entry-styles.B4iTFTCa.mjs').then(interopDefault),
+  "plugins/element-plus.js": () => import('./_nuxt/entry-styles.B4iTFTCa.mjs').then(interopDefault),
+  "pages/forum.vue": () => import('./_nuxt/forum-styles.BfAc_BCd.mjs').then(interopDefault),
+  "pages/forum/[id].vue": () => import('./_nuxt/_id_-styles.BFALyY7r.mjs').then(interopDefault),
+  "pages/index.vue": () => import('./_nuxt/index-styles.BWPZ2Sok.mjs').then(interopDefault),
+  "pages/task-archive.vue": () => import('./_nuxt/task-archive-styles.CS892JHD.mjs').then(interopDefault),
+  "pages/system-state.vue": () => import('./_nuxt/system-state-styles.DVBj9A2l.mjs').then(interopDefault),
+  "pages/forum.vue?vue&type=style&index=0&scoped=3c1cc3a0&lang.css": () => import('./_nuxt/forum-styles.D8oLODGa.mjs').then(interopDefault),
+  "pages/forum/[id].vue?vue&type=style&index=0&scoped=63dde374&lang.css": () => import('./_nuxt/_id_-styles.DfzhzxSO.mjs').then(interopDefault),
+  "pages/index.vue?vue&type=style&index=0&scoped=23f7beb9&lang.css": () => import('./_nuxt/index-styles.CS8AmKc8.mjs').then(interopDefault),
+  "pages/task-details.vue": () => import('./_nuxt/task-details-styles.Bwkc_6Jx.mjs').then(interopDefault),
+  "pages/task-archive.vue?vue&type=style&index=0&scoped=26e7c8a4&lang.css": () => import('./_nuxt/task-archive-styles.CVjCr0En.mjs').then(interopDefault),
+  "pages/system-state.vue?vue&type=style&index=0&scoped=50d665d1&lang.css": () => import('./_nuxt/system-state-styles.DHq7AI4Z.mjs').then(interopDefault),
+  "pages/task-details.vue?vue&type=style&index=0&scoped=6605b84d&lang.css": () => import('./_nuxt/task-details-styles.BHgQA8HM.mjs').then(interopDefault),
+  "components/Sidebar.vue": () => import('./_nuxt/Sidebar-styles.DuVL-06A.mjs').then(interopDefault),
+  "components/Sidebar.vue?vue&type=style&index=0&scoped=96f0e4ed&lang.css": () => import('./_nuxt/Sidebar-styles.CyMg9M06.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-404.vue": () => import('./_nuxt/error-404-styles.BcoFjqgl.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-500.vue": () => import('./_nuxt/error-500-styles.DPP87-Dp.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-404.vue?vue&type=style&index=0&scoped=00b6b518&lang.css": () => import('./_nuxt/error-404-styles.DRLC0U6S.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-500.vue?vue&type=style&index=0&scoped=f7ad9679&lang.css": () => import('./_nuxt/error-500-styles.DqmriZ_b.mjs').then(interopDefault),
+  "layouts/default.vue": () => import('./_nuxt/default-styles.CMauJyEa.mjs').then(interopDefault),
+  "layouts/default.vue?vue&type=style&index=0&scoped=4fd5cd13&lang.css": () => import('./_nuxt/default-styles.btInrt1n.mjs').then(interopDefault)
+}

@@ -1,0 +1,1 @@
+import{_ as t}from"./Cyt7Ta0R.js";import{_ as a,o as c,c as n,b as o,a as _,s as r}from"./x6JfeW_I.js";import"./uz7kDLvf.js";const d={components:{Sidebar:t}},p={class:"default-layout"},i={class:"page-content"};function m(f,u,l,x,$,b){const e=t,s=r;return c(),n("div",p,[o(e),_("div",i,[o(s)])])}const N=a(d,[["render",m],["__scopeId","data-v-4fd5cd13"]]);export{N as default};
